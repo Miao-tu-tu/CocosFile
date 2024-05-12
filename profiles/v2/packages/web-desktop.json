@@ -1,0 +1,41 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "polyfills": {
+        "asyncFunctions": true
+      },
+      "scenes": [
+        {
+          "url": "db://assets/Scenes/SampleScene.scene",
+          "uuid": "aa3d4a13-6a64-470d-9e46-ae7eb4f87b1e"
+        },
+        {
+          "url": "db://assets/Scenes/Test.scene",
+          "uuid": "15135e38-9b7a-4974-a201-3db3038dccd1"
+        },
+        {
+          "url": "db://assets/Missions/test01/1.scene",
+          "uuid": "aa81824a-3062-4d17-a797-f6225b369c3c",
+          "bundle": "db://assets/Missions/test01"
+        },
+        {
+          "url": "db://assets/Missions/test02/2.scene",
+          "uuid": "9d81645b-2562-4769-bd60-63e2a1e184c5"
+        }
+      ]
+    },
+    "taskOptionsMap": {
+      "1714803644677": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 1280,
+          "designHeight": 960
+        },
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.7"
+  }
+}

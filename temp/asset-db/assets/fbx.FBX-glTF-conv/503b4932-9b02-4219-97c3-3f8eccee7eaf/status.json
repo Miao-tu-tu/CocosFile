@@ -1,0 +1,21 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1699867366400.3635,
+  "outputTimeStamps": {
+    "Boy01_FacialAnimMap.png": 1714098738866.743,
+    "Boy01_diffuse.jpg": 1714098738857.7415,
+    "Boy01_normal.jpg": 1714098738863.742,
+    "out.bin": 1714098740187.0522,
+    "log.json": 1714098740195.0532,
+    "out.gltf": 1714098740193.053,
+    "Boy01_spec.jpg": 1714098738859.7412,
+    ".fbm/5E5D1DCE/Aj@Warrior_Idle.fbm/Boy01_diffuse.jpg": 1714098738857.7415,
+    ".fbm/5E5D1DCE/Aj@Warrior_Idle.fbm/Boy01_FacialAnimMap.png": 1714098738866.743,
+    ".fbm/5E5D1DCE/Aj@Warrior_Idle.fbm/Boy01_normal.jpg": 1714098738863.742,
+    ".fbm/5E5D1DCE/Aj@Warrior_Idle.fbm/Boy01_spec.jpg": 1714098738859.7412
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

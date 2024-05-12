@@ -1,0 +1,25 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1701169101303.5598,
+  "outputTimeStamps": {
+    "Soldier_Body_diffuse.png": 1714098738848.7383,
+    "Soldier_Body_normal.png": 1714098738858.7388,
+    "Soldier_Body_specular.png": 1714098738853.7405,
+    "Soldier_head_normal.png": 1714098738861.741,
+    "Soldier_head_specular.png": 1714098738855.74,
+    "log.json": 1714098739476.8792,
+    "out.bin": 1714098739467.8777,
+    "Soldier_head_diffuse.png": 1714098738851.7375,
+    "out.gltf": 1714098739473.8794,
+    ".fbm/2C1E197F/Swat.fbm/Soldier_Body_diffuse.png": 1714098738848.7383,
+    ".fbm/2C1E197F/Swat.fbm/Soldier_Body_specular.png": 1714098738853.7405,
+    ".fbm/2C1E197F/Swat.fbm/Soldier_head_diffuse.png": 1714098738851.7375,
+    ".fbm/2C1E197F/Swat.fbm/Soldier_Body_normal.png": 1714098738858.7388,
+    ".fbm/2C1E197F/Swat.fbm/Soldier_head_normal.png": 1714098738861.741,
+    ".fbm/2C1E197F/Swat.fbm/Soldier_head_specular.png": 1714098738855.74
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

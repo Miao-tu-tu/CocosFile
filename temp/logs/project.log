@@ -1,0 +1,12 @@
+2024-5-9 19:47:16 - log: Load engine in D:\Courses\Cocos\Cocos Creators\3.8.1\resources\resources\3d\engine
+2024-5-9 19:47:17 - log: Register native engine in D:\Courses\Cocos\Cocos Creators\3.8.1\resources\resources\3d\engine\native
+2024-5-9 19:47:28 - log: Profile changed: builder (log.level: undefined)
+2024-5-9 19:47:35 - info: [PreviewInEditor] preview process is ready
+2024-5-9 19:47:52 - info: [PreviewInEditor] [PHYSICS]: using builtin.
+2024-5-9 19:47:52 - log: [PreviewInEditor] Cocos Creator v3.8.1
+2024-5-9 19:47:52 - info: [PreviewInEditor] Forward render pipeline initialized.
+2024-5-9 19:47:52 - info: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2024-5-9 19:47:52 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2024-5-9 19:47:56 - log: [PreviewInEditor] null
+2024-5-9 19:47:56 - log: [PreviewInEditor] test01
+2024-5-9 19:48:02 - info: [PreviewInEditor] preview process is ready

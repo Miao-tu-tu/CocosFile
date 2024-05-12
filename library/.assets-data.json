@@ -1,0 +1,998 @@
+{
+  "91a0121a-b18c-492a-bb44-c1557fd20a5e": {
+    "url": "db://assets/Scripts/HelloWorld.ts",
+    "value": {}
+  },
+  "1c8efde8-e774-4380-bcb0-32906a6bf7af": {
+    "url": "db://assets/Scenes",
+    "value": {}
+  },
+  "12b61a55-ed9a-4c44-9b49-5b2ac449f99c": {
+    "url": "db://assets/Scripts",
+    "value": {}
+  },
+  "15135e38-9b7a-4974-a201-3db3038dccd1": {
+    "url": "db://assets/Scenes/Test.scene",
+    "value": {
+      "depends": [
+        "15135e38-9b7a-4974-a201-3db3038dccd1",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "91a0121a-b18c-492a-bb44-c1557fd20a5e"
+      ]
+    }
+  },
+  "fe93b699-4341-44c1-b997-38a1b152e8cd": {
+    "url": "db://assets/resources/4.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe93b699-4341-44c1-b997-38a1b152e8cd@6c48a": {
+    "url": "db://assets/resources/4.jpg@6c48a",
+    "value": {
+      "depends": [
+        "fe93b699-4341-44c1-b997-38a1b152e8cd"
+      ]
+    }
+  },
+  "fe93b699-4341-44c1-b997-38a1b152e8cd@f9941": {
+    "url": "db://assets/resources/4.jpg@f9941",
+    "value": {
+      "depends": [
+        "fe93b699-4341-44c1-b997-38a1b152e8cd@6c48a"
+      ]
+    }
+  },
+  "ba13a25f-e7f9-43d0-b829-f9aabd26cd59": {
+    "url": "db://assets/Images",
+    "value": {}
+  },
+  "446b6fe5-7824-457f-a07e-d6dd942abcd0": {
+    "url": "db://assets/Sphere.prefab",
+    "value": {}
+  },
+  "56426f43-9092-4435-b3e8-8d3f3b218565": {
+    "url": "db://assets/(Missing Node).prefab",
+    "value": {}
+  },
+  "d3c886c5-c880-4d2e-a812-092c2f791542": {
+    "url": "db://assets/resources/Sphere.prefab",
+    "value": {
+      "depends": [
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@17020"
+      ],
+      "dependScripts": []
+    }
+  },
+  "89ce9c46-0c2c-434d-9805-766f01b480bb": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "aa3d4a13-6a64-470d-9e46-ae7eb4f87b1e": {
+    "url": "db://assets/Scenes/SampleScene.scene",
+    "value": {
+      "depends": [
+        "aa3d4a13-6a64-470d-9e46-ae7eb4f87b1e",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "b77012a0-6108-4b2e-8f02-fd556b58f426",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "91a0121a-b18c-492a-bb44-c1557fd20a5e"
+      ]
+    }
+  },
+  "a11e9d59-1e81-4923-b926-4fb2576ba99c": {
+    "url": "db://assets/resources/Sprite.prefab",
+    "value": {
+      "depends": [
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "5dd9c585-1be1-4189-bda9-8df875f2165e": {
+    "url": "db://assets/Missions/test01/test01.ts",
+    "value": {}
+  },
+  "b0da6bbf-1fd5-4784-95f0-906531b7472e": {
+    "url": "db://assets/Animations",
+    "value": {}
+  },
+  "b77012a0-6108-4b2e-8f02-fd556b58f426": {
+    "url": "db://assets/Animations/move.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "aa81824a-3062-4d17-a797-f6225b369c3c": {
+    "url": "db://assets/Missions/test01/1.scene",
+    "value": {}
+  },
+  "4334d8a5-a4ee-4266-99ca-c447d3df295d": {
+    "url": "db://assets/Characters",
+    "value": {}
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx",
+    "value": {}
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b": {
+    "url": "db://assets/Characters/Aj@Running.fbx",
+    "value": {}
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx",
+    "value": {}
+  },
+  "13df9823-3aa6-4062-9d55-73ede5aaf45a": {
+    "url": "db://assets/Characters/Rifle Idle.fbx",
+    "value": {}
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c": {
+    "url": "db://assets/Characters/Swat.fbx",
+    "value": {}
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@30732": {
+    "url": "db://assets/Characters/Aj@Running.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@60514": {
+    "url": "db://assets/Characters/Aj@Running.fbx@60514",
+    "value": {
+      "depends": [
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@8b3e0"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@da566": {
+    "url": "db://assets/Characters/Aj@Running.fbx@da566",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@080de": {
+    "url": "db://assets/Characters/Aj@Running.fbx@080de",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@ba5bd": {
+    "url": "db://assets/Characters/Aj@Running.fbx@ba5bd",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@24a99": {
+    "url": "db://assets/Characters/Aj@Running.fbx@24a99",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@b84cf": {
+    "url": "db://assets/Characters/Aj@Running.fbx@b84cf",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@f1394": {
+    "url": "db://assets/Characters/Aj@Running.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@75ee4": {
+    "url": "db://assets/Characters/Aj@Running.fbx@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@a72ab": {
+    "url": "db://assets/Characters/Aj@Running.fbx@a72ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@b838c": {
+    "url": "db://assets/Characters/Aj@Running.fbx@b838c",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@30732": {
+    "url": "db://assets/Characters/Swat.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "13df9823-3aa6-4062-9d55-73ede5aaf45a@18d6f": {
+    "url": "db://assets/Characters/Rifle Idle.fbx@18d6f",
+    "value": {
+      "depends": []
+    }
+  },
+  "13df9823-3aa6-4062-9d55-73ede5aaf45a@82d07": {
+    "url": "db://assets/Characters/Rifle Idle.fbx@82d07",
+    "value": {
+      "depends": [
+        "13df9823-3aa6-4062-9d55-73ede5aaf45a@18d6f"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@de49f": {
+    "url": "db://assets/Characters/Swat.fbx@de49f",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@30732": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@8245f": {
+    "url": "db://assets/Characters/Aj@Running.fbx@8245f",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@60514": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@60514",
+    "value": {
+      "depends": [
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@8b3e0"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@e455b": {
+    "url": "db://assets/Characters/Swat.fbx@e455b",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@da566": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@da566",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@18d6f": {
+    "url": "db://assets/Characters/Swat.fbx@18d6f",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@8c192": {
+    "url": "db://assets/Characters/Aj@Running.fbx@8c192",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@f1394": {
+    "url": "db://assets/Characters/Swat.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@080de": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@080de",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@ba5bd": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@ba5bd",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@30732": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@616b6": {
+    "url": "db://assets/Characters/Swat.fbx@616b6",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@60514": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@60514",
+    "value": {
+      "depends": [
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@8b3e0"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@24a99": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@24a99",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@da566": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@da566",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@285ab": {
+    "url": "db://assets/Characters/Swat.fbx@285ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@bbfa6": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@bbfa6",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@f1394": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@080de": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@080de",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@75ee4": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@40efb": {
+    "url": "db://assets/Characters/Swat.fbx@40efb",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@a72ab": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@a72ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@ba5bd": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@ba5bd",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@24a99": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@24a99",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@612f0": {
+    "url": "db://assets/Characters/Swat.fbx@612f0",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@b838c": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@b838c",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@12c0d": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@12c0d",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@adacb": {
+    "url": "db://assets/Characters/Swat.fbx@adacb",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@f1394": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@75ee4": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@57e6c": {
+    "url": "db://assets/Characters/Aj@Running.fbx@57e6c",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@8245f": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@8245f",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@a72ab": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@a72ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@8c192": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@8c192",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@b838c": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@b838c",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@39d6e": {
+    "url": "db://assets/Characters/Swat.fbx@39d6e",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@ac38d": {
+    "url": "db://assets/Characters/Swat.fbx@ac38d",
+    "value": {
+      "depends": [
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@616b6"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@5b2e9": {
+    "url": "db://assets/Characters/Swat.fbx@5b2e9",
+    "value": {
+      "depends": [
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@285ab"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@7b748": {
+    "url": "db://assets/Characters/Swat.fbx@7b748",
+    "value": {
+      "depends": [
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@40efb"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@8245f": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@8245f",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@91dcf": {
+    "url": "db://assets/Characters/Swat.fbx@91dcf",
+    "value": {
+      "depends": [
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@612f0"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@e873a": {
+    "url": "db://assets/Characters/Swat.fbx@e873a",
+    "value": {
+      "depends": [
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@adacb"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@583b7": {
+    "url": "db://assets/Characters/Swat.fbx@583b7",
+    "value": {
+      "depends": [
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@39d6e"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@7dedf": {
+    "url": "db://assets/Characters/Swat.fbx@7dedf",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@ac38d"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@8c192": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@8c192",
+    "value": {
+      "depends": []
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@c1742": {
+    "url": "db://assets/Characters/Swat.fbx@c1742",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@91dcf"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@9545e": {
+    "url": "db://assets/Characters/Swat.fbx@9545e",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@ac38d"
+      ]
+    }
+  },
+  "15159de8-1ef8-44b8-921d-b5b9b508730c@bc4c3": {
+    "url": "db://assets/Characters/Swat.fbx@bc4c3",
+    "value": {
+      "depends": [
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@7dedf",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@c1742",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@de49f",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@30732",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@9545e",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@e455b",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@f1394",
+        "15159de8-1ef8-44b8-921d-b5b9b508730c@18d6f"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@8b3e0": {
+    "url": "db://assets/Characters/Aj@Running.fbx@8b3e0",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@57e6c": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@57e6c",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@57e6c": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@57e6c",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@1d288": {
+    "url": "db://assets/Characters/Aj@Running.fbx@1d288",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@d5851": {
+    "url": "db://assets/Characters/Aj@Running.fbx@d5851",
+    "value": {
+      "depends": [
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@b838c"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@05fc7": {
+    "url": "db://assets/Characters/Aj@Running.fbx@05fc7",
+    "value": {
+      "depends": [
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@8245f"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@8cbf6": {
+    "url": "db://assets/Characters/Aj@Running.fbx@8cbf6",
+    "value": {
+      "depends": [
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@8c192"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@eb06c": {
+    "url": "db://assets/Characters/Aj@Running.fbx@eb06c",
+    "value": {
+      "depends": [
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@57e6c"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@a49d4": {
+    "url": "db://assets/Characters/Aj@Running.fbx@a49d4",
+    "value": {
+      "depends": [
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@1d288"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@941ed": {
+    "url": "db://assets/Characters/Aj@Running.fbx@941ed",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@d5851"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@df95c": {
+    "url": "db://assets/Characters/Aj@Running.fbx@df95c",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@bb2f1": {
+    "url": "db://assets/Characters/Aj@Running.fbx@bb2f1",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@27d8d": {
+    "url": "db://assets/Characters/Aj@Running.fbx@27d8d",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "b0179199-af39-4e0a-aa99-eb07c9c7753b@20c97": {
+    "url": "db://assets/Characters/Aj@Running.fbx@20c97",
+    "value": {
+      "depends": [
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@941ed",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@da566",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@30732",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@df95c",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@080de",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@f1394",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@bb2f1",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@ba5bd",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@75ee4",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@27d8d",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@24a99",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@a72ab",
+        "b0179199-af39-4e0a-aa99-eb07c9c7753b@b84cf"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@8b3e0": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@8b3e0",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@8b3e0": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@8b3e0",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@1d288": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@1d288",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@d5851": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@d5851",
+    "value": {
+      "depends": [
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@b838c"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@05fc7": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@05fc7",
+    "value": {
+      "depends": [
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@8245f"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@8cbf6": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@8cbf6",
+    "value": {
+      "depends": [
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@8c192"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@eb06c": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@eb06c",
+    "value": {
+      "depends": [
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@57e6c"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@a49d4": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@a49d4",
+    "value": {
+      "depends": [
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@1d288"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@941ed": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@941ed",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@d5851"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@df95c": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@df95c",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@bb2f1": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@bb2f1",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@27d8d": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@27d8d",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "d6c5104b-b516-4962-8b09-79491ac6aba3@f88f1": {
+    "url": "db://assets/Characters/Aj@Open_Door_Outwards.fbx@f88f1",
+    "value": {
+      "depends": [
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@941ed",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@da566",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@30732",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@df95c",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@080de",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@f1394",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@bb2f1",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@ba5bd",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@75ee4",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@27d8d",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@24a99",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@a72ab",
+        "d6c5104b-b516-4962-8b09-79491ac6aba3@bbfa6"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@1d288": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@1d288",
+    "value": {
+      "depends": []
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@d5851": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@d5851",
+    "value": {
+      "depends": [
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@b838c"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@05fc7": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@05fc7",
+    "value": {
+      "depends": [
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@8245f"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@8cbf6": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@8cbf6",
+    "value": {
+      "depends": [
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@8c192"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@eb06c": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@eb06c",
+    "value": {
+      "depends": [
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@57e6c"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@a49d4": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@a49d4",
+    "value": {
+      "depends": [
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@1d288"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@941ed": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@941ed",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@d5851"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@df95c": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@df95c",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@bb2f1": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@bb2f1",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@27d8d": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@27d8d",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "503b4932-9b02-4219-97c3-3f8eccee7eaf@ce387": {
+    "url": "db://assets/Characters/Aj@Warrior_Idle.fbx@ce387",
+    "value": {
+      "depends": [
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@941ed",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@da566",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@30732",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@df95c",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@080de",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@f1394",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@bb2f1",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@ba5bd",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@75ee4",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@27d8d",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@24a99",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@a72ab",
+        "503b4932-9b02-4219-97c3-3f8eccee7eaf@12c0d"
+      ]
+    }
+  },
+  "33ec819e-e356-40eb-9766-a26c3aef9ddc": {
+    "url": "db://assets/Missions",
+    "value": {}
+  },
+  "9b3eec99-5443-4ac6-a458-cefb431c5e8f": {
+    "url": "db://assets/Missions/test01",
+    "value": {}
+  },
+  "08182ab8-30af-4981-8c07-638be458de18": {
+    "url": "db://assets/Missions/test02",
+    "value": {}
+  },
+  "9d81645b-2562-4769-bd60-63e2a1e184c5": {
+    "url": "db://assets/Missions/test02/2.scene",
+    "value": {}
+  },
+  "ce2bb6d9-48d1-4af7-b94e-2c718d581522": {
+    "url": "db://assets/Missions/test02/test02.ts",
+    "value": {}
+  },
+  "1af94a43-7e43-4f46-833b-8ea7d07097a9": {
+    "url": "db://assets/Missions/test03",
+    "value": {}
+  },
+  "ec71f23e-bd42-4cce-a378-e4d06ad6920e": {
+    "url": "db://assets/Missions/test03/3.scene",
+    "value": {}
+  },
+  "e6ac7983-3611-4235-8643-13e7499a2aa0": {
+    "url": "db://assets/Missions/test03/test03.ts",
+    "value": {}
+  },
+  "25e37f22-22da-428a-98d7-0ed991f9531a": {
+    "url": "db://assets/Missions/test03/1.jpg",
+    "value": {}
+  },
+  "25e37f22-22da-428a-98d7-0ed991f9531a@6c48a": {
+    "url": "db://assets/Missions/test03/1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "25e37f22-22da-428a-98d7-0ed991f9531a"
+      ]
+    }
+  },
+  "25e37f22-22da-428a-98d7-0ed991f9531a@f9941": {
+    "url": "db://assets/Missions/test03/1.jpg@f9941",
+    "value": {
+      "depends": [
+        "25e37f22-22da-428a-98d7-0ed991f9531a@6c48a"
+      ]
+    }
+  },
+  "2d63dec9-85e2-4a7e-bf1a-39b93f2ffb90": {
+    "url": "db://assets/Missions/开始场景",
+    "value": {}
+  },
+  "96dc00b1-d1a9-4b59-929c-2adfcd0c0b40": {
+    "url": "db://assets/Missions/开始场景/大作业.scene",
+    "value": {
+      "depends": [
+        "96dc00b1-d1a9-4b59-929c-2adfcd0c0b40",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "b3dd1073-f06e-4138-8c77-1072b6c41e4f"
+      ]
+    }
+  },
+  "b3dd1073-f06e-4138-8c77-1072b6c41e4f": {
+    "url": "db://assets/Missions/开始场景/final.ts",
+    "value": {}
+  },
+  "b2fcc996-4211-424c-83d4-a49923793839": {
+    "url": "db://assets/Missions/test01/1.scene",
+    "value": {
+      "depends": [
+        "b2fcc996-4211-424c-83d4-a49923793839",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": []
+    }
+  },
+  "0df7ff2b-2422-4547-8ea0-162b64e2ec5b": {
+    "url": "db://assets/Missions/test02/2.scene",
+    "value": {
+      "depends": [
+        "0df7ff2b-2422-4547-8ea0-162b64e2ec5b",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": []
+    }
+  },
+  "9a6f633e-d5b4-4a80-bc11-f0e008b7b71f": {
+    "url": "db://assets/Missions/test03/3.scene",
+    "value": {}
+  },
+  "ef860a03-376b-43ea-afe4-021cf55699b9": {
+    "url": "db://assets/Missions",
+    "value": {}
+  }
+}

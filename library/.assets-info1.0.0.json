@@ -1,0 +1,564 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scenes.meta": {
+      "time": 1709777501377.4536
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scripts.meta": {
+      "time": 1709777511940.4934
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scripts": {
+      "time": 1714723787428.1191,
+      "uuid": "12b61a55-ed9a-4c44-9b49-5b2ac449f99c"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scenes\\Test.scene.meta": {
+      "time": 1709778052096.4497
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scripts\\HelloWorld.ts.meta": {
+      "time": 1709173928400.9404
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scripts\\HelloWorld.ts": {
+      "time": 1714101893663.7253,
+      "uuid": "91a0121a-b18c-492a-bb44-c1557fd20a5e"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Images.meta": {
+      "time": 1710389409032.3955
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources.meta": {
+      "time": 1710416416820.1333
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources": {
+      "time": 1710989563383.5566,
+      "uuid": "89ce9c46-0c2c-434d-9805-766f01b480bb"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources\\Sphere.prefab.meta": {
+      "time": 1710416371981.2205
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources\\Sphere.prefab": {
+      "time": 1710416371979.2197,
+      "uuid": "d3c886c5-c880-4d2e-a812-092c2f791542"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Scenes\\SampleScene.scene.meta": {
+      "time": 1710417678176.1387
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources\\Sprite.prefab.meta": {
+      "time": 1710472262483.7502
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources\\Sprite.prefab": {
+      "time": 1710472262480.7478,
+      "uuid": "a11e9d59-1e81-4923-b926-4fb2576ba99c"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources\\4.jpg.meta": {
+      "time": 1710386377070.3928
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\resources\\4.jpg": {
+      "time": 1699607436555.7444,
+      "uuid": "fe93b699-4341-44c1-b997-38a1b152e8cd"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Animations.meta": {
+      "time": 1712458132328.6067
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Animations": {
+      "time": 1712458152607.2908,
+      "uuid": "b0da6bbf-1fd5-4784-95f0-906531b7472e"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Animations\\move.anim.meta": {
+      "time": 1712458152611.2913
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Animations\\move.anim": {
+      "time": 1712460111115.5918,
+      "uuid": "b77012a0-6108-4b2e-8f02-fd556b58f426"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Characters.meta": {
+      "time": 1714098694248.0688
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Characters\\Aj@Open_Door_Outwards.fbx.meta": {
+      "time": 1714098746923.5623
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Characters\\Aj@Running.fbx.meta": {
+      "time": 1714721558196.1584
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Characters\\Aj@Warrior_Idle.fbx.meta": {
+      "time": 1714721839774.9673
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Characters\\Rifle Idle.fbx.meta": {
+      "time": 1714720729985.4778
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Characters\\Swat.fbx.meta": {
+      "time": 1714098742549.573
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions.meta": {
+      "time": 1714723760727.3132
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test01.meta": {
+      "time": 1714815226145.09
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test01": {
+      "time": 1714723787428.1191,
+      "uuid": "9b3eec99-5443-4ac6-a458-cefb431c5e8f"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test01\\1.scene.meta": {
+      "time": 1714098259800.5725
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test01\\test01.ts.meta": {
+      "time": 1710473035554.148
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test02.meta": {
+      "time": 1714815218518.329
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test02": {
+      "time": 1714723995131.442,
+      "uuid": "08182ab8-30af-4981-8c07-638be458de18"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test02\\2.scene.meta": {
+      "time": 1714723976161.7908
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test02\\test02.ts.meta": {
+      "time": 1714723995134.441
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test03.meta": {
+      "time": 1714808259265.2039
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test03\\3.scene.meta": {
+      "time": 1714803851717.9724
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test03\\test03.ts.meta": {
+      "time": 1714803869854.8196
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\test03\\1.jpg.meta": {
+      "time": 1714805500246.7302
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\final.meta": {
+      "time": 1714813650386.382
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\final": {
+      "time": 1714813741158.0332,
+      "uuid": "2d63dec9-85e2-4a7e-bf1a-39b93f2ffb90"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\final\\final.scene.meta": {
+      "time": 1714813665337.6543
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\final\\final.scene": {
+      "time": 1715221561406.4424,
+      "uuid": "96dc00b1-d1a9-4b59-929c-2adfcd0c0b40"
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\final\\final.ts.meta": {
+      "time": 1714813741160.0337
+    },
+    "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Missions\\final\\final.ts": {
+      "time": 1715222594497.6816,
+      "uuid": "b3dd1073-f06e-4138-8c77-1072b6c41e4f"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Animations": {
+      "time": 1715227832684.037,
+      "uuid": "b0da6bbf-1fd5-4784-95f0-906531b7472e"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources": {
+      "time": 1715227832824.1948,
+      "uuid": "89ce9c46-0c2c-434d-9805-766f01b480bb"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Scripts": {
+      "time": 1715227832846.215,
+      "uuid": "12b61a55-ed9a-4c44-9b49-5b2ac449f99c"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\final": {
+      "time": 1715227832760.7793,
+      "uuid": "2d63dec9-85e2-4a7e-bf1a-39b93f2ffb90"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test01": {
+      "time": 1715227832774.1648,
+      "uuid": "9b3eec99-5443-4ac6-a458-cefb431c5e8f"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test02": {
+      "time": 1715227832788.2856,
+      "uuid": "08182ab8-30af-4981-8c07-638be458de18"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Scripts\\HelloWorld.ts": {
+      "time": 1714101893663.7253,
+      "uuid": "91a0121a-b18c-492a-bb44-c1557fd20a5e"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\final\\final.ts": {
+      "time": 1715222594497.6816,
+      "uuid": "b3dd1073-f06e-4138-8c77-1072b6c41e4f"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Animations.meta": {
+      "time": 1712458132328.6067
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters.meta": {
+      "time": 1714098694248.0688
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Images.meta": {
+      "time": 1710389409032.3955
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions.meta": {
+      "time": 1714723760727.3132
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources.meta": {
+      "time": 1710416416820.1333
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Scenes.meta": {
+      "time": 1709777501377.4536
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Scripts.meta": {
+      "time": 1709777511940.4934
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\final.meta": {
+      "time": 1714813650386.382
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test01.meta": {
+      "time": 1714815226145.09
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test02.meta": {
+      "time": 1714815218518.329
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03.meta": {
+      "time": 1714808259265.2039
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Scripts\\HelloWorld.ts.meta": {
+      "time": 1709173928400.9404
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\final\\final.ts.meta": {
+      "time": 1714813741160.0337
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test01\\test01.ts.meta": {
+      "time": 1710473035554.148
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test02\\test02.ts.meta": {
+      "time": 1714723995134.441
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03\\test03.ts.meta": {
+      "time": 1714803869854.8196
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Animations\\move.anim": {
+      "time": 1712460111115.5918,
+      "uuid": "b77012a0-6108-4b2e-8f02-fd556b58f426"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources\\4.jpg": {
+      "time": 1699607436555.7444,
+      "uuid": "fe93b699-4341-44c1-b997-38a1b152e8cd"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources\\Sphere.prefab": {
+      "time": 1710416371979.2197,
+      "uuid": "d3c886c5-c880-4d2e-a812-092c2f791542"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources\\Sprite.prefab": {
+      "time": 1710472262480.7478,
+      "uuid": "a11e9d59-1e81-4923-b926-4fb2576ba99c"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\final\\final.scene": {
+      "time": 1715227575343.7297,
+      "uuid": "96dc00b1-d1a9-4b59-929c-2adfcd0c0b40"
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Animations\\move.anim.meta": {
+      "time": 1712458152611.2913
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Rifle Idle.fbx.meta": {
+      "time": 1714720729985.4778
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources\\4.jpg.meta": {
+      "time": 1710386377070.3928
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources\\Sphere.prefab.meta": {
+      "time": 1710416371981.2205
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\resources\\Sprite.prefab.meta": {
+      "time": 1710472262483.7502
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Scenes\\SampleScene.scene.meta": {
+      "time": 1710417678176.1387
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Scenes\\Test.scene.meta": {
+      "time": 1709778052096.4497
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\final\\final.scene.meta": {
+      "time": 1714813665337.6543
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test01\\1.scene.meta": {
+      "time": 1714098259800.5725
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test02\\2.scene.meta": {
+      "time": 1714723976161.7908
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03\\1.jpg.meta": {
+      "time": 1714805500246.7302
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03\\3.scene.meta": {
+      "time": 1714803851717.9724
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Swat.fbx.meta": {
+      "time": 1714098742549.573
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Aj@Running.fbx.meta": {
+      "time": 1714721558196.1584
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Aj@Open_Door_Outwards.fbx.meta": {
+      "time": 1714098746923.5623
+    },
+    "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Aj@Warrior_Idle.fbx.meta": {
+      "time": 1714721839774.9673
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Animations": {
+      "time": 1715254249608.5884,
+      "uuid": "b0da6bbf-1fd5-4784-95f0-906531b7472e"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions": {
+      "time": 1715255194774.1943,
+      "uuid": "ef860a03-376b-43ea-afe4-021cf55699b9"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources": {
+      "time": 1715254249742.008,
+      "uuid": "89ce9c46-0c2c-434d-9805-766f01b480bb"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scripts": {
+      "time": 1715254249762.614,
+      "uuid": "12b61a55-ed9a-4c44-9b49-5b2ac449f99c"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test01": {
+      "time": 1715254482590.3992,
+      "uuid": "9b3eec99-5443-4ac6-a458-cefb431c5e8f"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test02": {
+      "time": 1715254478152.8293,
+      "uuid": "08182ab8-30af-4981-8c07-638be458de18"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scripts\\HelloWorld.ts": {
+      "time": 1714101893663.7253,
+      "uuid": "91a0121a-b18c-492a-bb44-c1557fd20a5e"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Animations.meta": {
+      "time": 1712458132328.6067
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions.meta": {
+      "time": 1715255246214.4421
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources.meta": {
+      "time": 1710416416820.1333
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scenes.meta": {
+      "time": 1709777501377.4536
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scripts.meta": {
+      "time": 1709777511940.4934
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test01.meta": {
+      "time": 1714815226145.09
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test02.meta": {
+      "time": 1714815218518.329
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scripts\\HelloWorld.ts.meta": {
+      "time": 1709173928400.9404
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Animations\\move.anim": {
+      "time": 1712460111115.5918,
+      "uuid": "b77012a0-6108-4b2e-8f02-fd556b58f426"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources\\4.jpg": {
+      "time": 1699607436555.7444,
+      "uuid": "fe93b699-4341-44c1-b997-38a1b152e8cd"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources\\Sphere.prefab": {
+      "time": 1710416371979.2197,
+      "uuid": "d3c886c5-c880-4d2e-a812-092c2f791542"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources\\Sprite.prefab": {
+      "time": 1710472262480.7478,
+      "uuid": "a11e9d59-1e81-4923-b926-4fb2576ba99c"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Animations\\move.anim.meta": {
+      "time": 1712458152611.2913
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources\\4.jpg.meta": {
+      "time": 1710386377070.3928
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources\\Sphere.prefab.meta": {
+      "time": 1710416371981.2205
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\resources\\Sprite.prefab.meta": {
+      "time": 1710472262483.7502
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scenes\\SampleScene.scene.meta": {
+      "time": 1710417678176.1387
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scenes\\Test.scene.meta": {
+      "time": 1709778052096.4497
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test01\\1.scene.meta": {
+      "time": 1715254359879.8816
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test01\\1.scene": {
+      "time": 1715254418193.4414,
+      "uuid": "b2fcc996-4211-424c-83d4-a49923793839"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test02\\2.scene.meta": {
+      "time": 1715254414072.9045
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test02\\2.scene": {
+      "time": 1715254432642.807,
+      "uuid": "0df7ff2b-2422-4547-8ea0-162b64e2ec5b"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\开始场景.meta": {
+      "time": 1714813650386.382
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\开始场景": {
+      "time": 1715254934176.066,
+      "uuid": "2d63dec9-85e2-4a7e-bf1a-39b93f2ffb90"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\开始场景\\final.ts.meta": {
+      "time": 1714813741160.0337
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\开始场景\\final.ts": {
+      "time": 1715254901333.462,
+      "uuid": "b3dd1073-f06e-4138-8c77-1072b6c41e4f"
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\开始场景\\大作业.scene.meta": {
+      "time": 1714813665337.6543
+    },
+    "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\开始场景\\大作业.scene": {
+      "time": 1715255051565.575,
+      "uuid": "96dc00b1-d1a9-4b59-929c-2adfcd0c0b40"
+    }
+  },
+  "missing": {
+    "91a0121a-b18c-492a-bb44-c1557fd20a5e": {
+      "path": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\HelloWorld.ts",
+      "time": 1709810390132.9768,
+      "removeTime": 1709810422158
+    },
+    "fe93b699-4341-44c1-b997-38a1b152e8cd": {
+      "path": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Images\\4.jpg",
+      "time": 1699607436555.7444,
+      "removeTime": 1710989563387
+    },
+    "446b6fe5-7824-457f-a07e-d6dd942abcd0": {
+      "path": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Sphere.prefab",
+      "time": 1710416277742.4778,
+      "removeTime": 1710416353590
+    },
+    "56426f43-9092-4435-b3e8-8d3f3b218565": {
+      "path": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\(Missing Node).prefab",
+      "time": 1710416357402.6584,
+      "removeTime": 1710416363679
+    },
+    "d3c886c5-c880-4d2e-a812-092c2f791542": {
+      "path": "D:\\Courses\\Cocos\\Cocos Projects\\Test\\assets\\Sphere.prefab",
+      "time": 1710416371979.2197,
+      "removeTime": 1710416419754
+    },
+    "aa81824a-3062-4d17-a797-f6225b369c3c": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test01\\1.scene",
+      "time": 1714722862635.06,
+      "removeTime": 1715255164699
+    },
+    "5dd9c585-1be1-4189-bda9-8df875f2165e": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test01\\test01.ts",
+      "time": 1714723606456.9165,
+      "removeTime": 1715255164697
+    },
+    "9d81645b-2562-4769-bd60-63e2a1e184c5": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test02\\2.scene",
+      "time": 1714734257695.4497,
+      "removeTime": 1715255164700
+    },
+    "ec71f23e-bd42-4cce-a378-e4d06ad6920e": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03\\3.scene",
+      "time": 1714813054129.263,
+      "removeTime": 1715255164700
+    },
+    "25e37f22-22da-428a-98d7-0ed991f9531a": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03\\1.jpg",
+      "time": 1699607395048.6855,
+      "removeTime": 1715255164700
+    },
+    "e6ac7983-3611-4235-8643-13e7499a2aa0": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03\\test03.ts",
+      "time": 1714812828115.3691,
+      "removeTime": 1715255164697
+    },
+    "ce2bb6d9-48d1-4af7-b94e-2c718d581522": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test02\\test02.ts",
+      "time": 1714733909763.3098,
+      "removeTime": 1715255164697
+    },
+    "1af94a43-7e43-4f46-833b-8ea7d07097a9": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions\\test03",
+      "time": 1715227832804.713,
+      "removeTime": 1715255164696
+    },
+    "9a6f633e-d5b4-4a80-bc11-f0e008b7b71f": {
+      "path": "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\test03\\3.scene",
+      "time": 1715254494773.7754,
+      "removeTime": 1715254860819
+    },
+    "96dc00b1-d1a9-4b59-929c-2adfcd0c0b40": {
+      "path": "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\大作业\\大作业.scene",
+      "time": 1715255051565.575,
+      "removeTime": 1715255194779
+    },
+    "2d63dec9-85e2-4a7e-bf1a-39b93f2ffb90": {
+      "path": "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\大作业",
+      "time": 1715254934176.066,
+      "removeTime": 1715255194777
+    },
+    "b3dd1073-f06e-4138-8c77-1072b6c41e4f": {
+      "path": "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Missions\\大作业\\final.ts",
+      "time": 1715254901333.462,
+      "removeTime": 1715255194778
+    },
+    "ba13a25f-e7f9-43d0-b829-f9aabd26cd59": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Images",
+      "time": 1710989563383.5566,
+      "removeTime": 1715255164696
+    },
+    "4334d8a5-a4ee-4266-99ca-c447d3df295d": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters",
+      "time": 1715227832733.017,
+      "removeTime": 1715255164695
+    },
+    "d6c5104b-b516-4962-8b09-79491ac6aba3": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Aj@Open_Door_Outwards.fbx",
+      "time": 1700550219473.5579,
+      "removeTime": 1715255164697
+    },
+    "b0179199-af39-4e0a-aa99-eb07c9c7753b": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Aj@Running.fbx",
+      "time": 1699867378442.3499,
+      "removeTime": 1715255164698
+    },
+    "503b4932-9b02-4219-97c3-3f8eccee7eaf": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Aj@Warrior_Idle.fbx",
+      "time": 1699867366400.3635,
+      "removeTime": 1715255164698
+    },
+    "13df9823-3aa6-4062-9d55-73ede5aaf45a": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Rifle Idle.fbx",
+      "time": 1701344467985.449,
+      "removeTime": 1715255164698
+    },
+    "15159de8-1ef8-44b8-921d-b5b9b508730c": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Characters\\Swat.fbx",
+      "time": 1701169101303.5598,
+      "removeTime": 1715255164699
+    },
+    "1c8efde8-e774-4380-bcb0-32906a6bf7af": {
+      "path": "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scenes",
+      "time": 1715254249755.7236,
+      "removeTime": 1715255164701
+    },
+    "15135e38-9b7a-4974-a201-3db3038dccd1": {
+      "path": "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scenes\\Test.scene",
+      "time": 1710994437985.4258,
+      "removeTime": 1715255164701
+    },
+    "aa3d4a13-6a64-470d-9e46-ae7eb4f87b1e": {
+      "path": "C:\\Users\\wyh\\Desktop\\新建文件夹\\大作业\\assets\\Scenes\\SampleScene.scene",
+      "time": 1712460125625.176,
+      "removeTime": 1715255164701
+    },
+    "33ec819e-e356-40eb-9766-a26c3aef9ddc": {
+      "path": "C:\\Users\\wyh\\Desktop\\Cocos\\assets\\Missions",
+      "time": 1715227832791.2878,
+      "removeTime": 1715255255372
+    }
+  }
+}
